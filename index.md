@@ -4,11 +4,11 @@ PlantHealth is a mobile application that recognize grape plant diseases via imag
 
 # Group Members
 
--İbrahim Berker Kırdök
--İlhami Özer
--Muhammet Murat Süerdem
--Osman Sefa İbiş
--Göktuğ Özdoğan
+- İbrahim Berker Kırdök
+- İlhami Özer
+- Muhammet Murat Süerdem
+- Osman Sefa İbiş
+- Göktuğ Özdoğan
 
 # Reports
 
