@@ -12,7 +12,7 @@ PlantHealth is a mobile application that recognize grape plant diseases via imag
 
 # Reports
 
--{{https://github.com/brker/PlantHealth/blob/master/SeniorProjectDescription.pdf}}Project Specification Report
+- [Project Specification Report](https://github.com/brker/PlantHealth/blob/master/SeniorProjectDescription.pdf)
 
 
 
