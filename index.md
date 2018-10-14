@@ -1,4 +1,4 @@
-## Welcome to Wrold of Plants
+## Welcome to World of Plants
 
 You can use the [editor on GitHub](https://github.com/brker/PlantHealth/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
