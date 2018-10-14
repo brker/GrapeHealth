@@ -1,6 +1,6 @@
 ## PlantHealth
 
-PlantHealth is a mobile application that recognize grape plant diseases via image rezongition and chatbot.
+PlantHealth is a mobile application that recognize grape plant diseases via image recognition and chatbot.
 
 # Group Members
 
