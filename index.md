@@ -12,7 +12,7 @@ GrapeHealth is a mobile application that recognize grape plant diseases via imag
 
 # Reports
 
-- [Project Specification Report](https://github.com/brker/PlantHealth/blob/master/SeniorProjectDescription.pdf)
+- [Project Specification Report](https://github.com/brker/GrapeHealth/blob/master/CS%20491%20-%20Project%20Specification%20Report.pdf)
 
 
 
