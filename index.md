@@ -4,11 +4,11 @@ GrapeHealth is a mobile application that recognize grape plant diseases via imag
 
 # Group Members
 
-- İbrahim Berker Kırdök
-- İlhami Özer
-- Muhammet Murat Süerdem
-- Osman Sefa İbiş
-- Göktuğ Özdoğan
+- İbrahim Berker Kırdök (berker.kirdok@gmail.com)
+- İlhami Özer (ozer0306@gmail.com)
+- Muhammet Murat Süerdem (murat.suerdem@gmail.com)
+- Osman Sefa İbiş (sefaibs@gmail.com)
+- Göktuğ Özdoğan (goktugozdogan95@gmail.com)
 
 # Reports
 
